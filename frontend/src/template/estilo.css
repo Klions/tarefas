@@ -1,0 +1,35 @@
+.btn {
+    margin-right: 5px;
+}
+
+.marcarConcluido {
+    text-decoration: line-through;
+    color: #777; 
+    background-color: rgba(0, 0, 0, 0.02);
+}
+
+.centro{
+    text-align:center;
+}
+
+.digitando{
+    height: 10px;
+    color: rgba(0, 0, 0, 0.5);
+    margin-left: 5px;
+}
+
+.tabelaAcoes {
+    width: 105px;
+}
+
+.tabelaCriado {
+    width: 180px;
+}
+
+.tarefasForm {
+    padding-bottom: 60px; 
+}
+
+.atalhos{
+    height: 120px;
+}
